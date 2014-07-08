@@ -1,4 +1,4 @@
 firefoxos-automation
 ====================
 
-Automation for creating Firefox OS projects
+Workflow for Firefox OS apps
