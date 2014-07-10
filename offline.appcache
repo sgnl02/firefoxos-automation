@@ -1,0 +1,9 @@
+CACHE MANIFEST
+
+# index.html
+# assets/js/main.js
+# assets/root.css
+# assets/stylesheets/ui.css
+# assets/icons/styles/icons.css
+
+NETWORK: *
